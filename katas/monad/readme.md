@@ -7,6 +7,7 @@ Quote from Wikipedia:
 'In functional programming, a monad is a structure that represents computations defined as sequences of steps. A type with a monad structure defines what it means to chain operations, or nest functions of that type together. This allows the programmer to build pipelines that process data in steps, in which each action is decorated with additional processing rules provided by the monad'.
 
 For example in the picture the knight is in [6, 2]:
+```js
    1 2 3 4 5 6 7 8
 8 | | | | | | | | |
 7 | | | | | | | | |
@@ -16,6 +17,7 @@ For example in the picture the knight is in [6, 2]:
 3 | | | |x| | | |x|
 2 | | | | | |*| | |
 1 | | | |x| | | |x|
+```
 
 In one movement he can reach the next squares:
 [ [ 8, 1 ], [ 8, 3 ], [ 4, 1 ], [ 4, 3 ], [ 7, 4 ], [ 5, 4 ] ]
