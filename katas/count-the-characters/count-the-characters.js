@@ -1,0 +1,2 @@
+function countChar(string, char) {
+}
