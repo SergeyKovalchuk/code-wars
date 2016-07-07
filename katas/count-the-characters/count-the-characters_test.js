@@ -5,7 +5,7 @@ describe('count the characters', function() {
     });
 
     it('should return number of characters in word', function() {
-        expect(countChar('telescope', 'e')).toEqual(2);
+        expect(countChar('telescope', 'e')).toEqual(3);
         expect(countChar('habrahabr', 'a')).toEqual(3);
     });
 
