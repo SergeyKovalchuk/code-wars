@@ -12,6 +12,8 @@ Note: If the number is a multiple of both 3 and 5, only count it once.
 solution(10) //=> returns 23
 ```
 
+See [tests in multiples-of-3-and-5_test.js](https://github.com/AlexVvx/code-wars/blob/master/katas/multiples-of-3-and-5/multiples-of-3-and-5_test.js)
+
 #####[Original Kata](https://www.codewars.com/kata/multiples-of-3-and-5)
 
 Good luck
