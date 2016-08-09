@@ -54,6 +54,8 @@ function getDependencies(tree) {
 module.exports = getDependencies
 ```
 
+See [tests in module-dependences_test.js](https://github.com/AlexVvx/code-wars/blob/master/katas/module-dependences/module-dependences_test.js)
+
 ## Recourses
 
 * https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Object/keys
