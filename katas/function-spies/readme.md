@@ -30,6 +30,8 @@ console.log(spy.count) // 3
 
 * Functions have context, input and output. Make sure you consider the context, input to *and output from* the function you are spying on.
 
+See [tests in function-spies-test.js]()
+
 ## Boilerplate
 
 ```js
