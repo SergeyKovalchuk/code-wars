@@ -1,6 +1,6 @@
 # Task
 
-Implement longestWord function that for given an uppercase 9 letter string, letters, find the longest word that can be made with some or all of the letters. The preloaded array words contains a bunch of uppercase words (generate please and provide in your answer) that you will have to loop through. Only return the longest word; if there is more than one, return the words of the same lengths in alphabetical order. If there are no words that can be made from the letters given, return null.
+Implement longestWord function that for given an uppercase 9 letter string, letters, find the longest word that can be made with some or all of the letters. The preloaded array words contains a bunch of uppercase words [Vocabulary](https://github.com/AlexVvx/code-wars/blob/master/katas/countdown-game/countdown_vocabulary.js) that you will have to loop through. Only return the longest word; if there is more than one, return the words of the same lengths in alphabetical order. If there are no words that can be made from the letters given, return null.
 
 # Interesting Detail
 
