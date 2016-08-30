@@ -4,11 +4,7 @@ Implement longestWord function that for given an uppercase 9 letter string, lett
 
 # Interesting Detail
 
-Countdown is a British game show with number and word puzzles. The letters round consists of the contestant picking 9 shuffled letters - either picking from the vowel pile or the consonant pile. The contestants are given 30 seconds to try to come up with the longest English word they can think of with the available letters - letters can not be used more than once unless there is another of the same character.
-
-# ExtraTask
-
-Given an uppercase n letter string. Use es6+ syntax.
+Countdown is a British game show with number and word puzzles. The letters round consists of the contestant picking N shuffled letters - either picking from the vowel pile or the consonant pile. The contestants are given 30 seconds to try to come up with the longest English word they can think of with the available letters - letters can not be used more than once unless there is another of the same character.
 
 ## Example
 
