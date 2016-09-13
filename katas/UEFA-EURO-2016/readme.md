@@ -12,7 +12,7 @@ uefaEuro2016(['Belgium', 'Italy'],[0, 2]) // "At match Belgium - Italy, Italy wo
 uefaEuro2016(['Portugal', 'Iceland'],[1, 1]) // "At match Portugal - Iceland, teams played draw."
 ```
 
-See [tests in uefa-euro_test.js](https://github.com/ivanStraltsou/code-wars/blob/master/katas/uefa-euro/uefa-euro_test.js)
+See [tests in uefa-euro-2016_test.js](https://github.com/ivanStraltsou/code-wars/blob/master/katas/uefa-euro-2016/uefa-euro-2016_test.js)
 
 Good luck
 
