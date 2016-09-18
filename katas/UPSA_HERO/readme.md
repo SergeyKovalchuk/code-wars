@@ -18,6 +18,6 @@ matrixOfSkills = [['Heroes/skills', 'Siarhei', 'Ivan', 'Alexander', 'Dmitry', 'N
 
 upsaHero2016( matrixOfSkills) // Ivan (because he knows 6 skills mare than anyone from list)
 ```
-See [tests in upsa-hero-2016_test.js](https://github.com/AlexVvx/code-wars/blob/master/katas/upsa-hero-2016/upsa-hero-2016_test.js)
+See [tests in upsa-hero-2016_test.js](https://github.com/AlexVvx/code-wars/blob/master/katas/UPSA_HERO/upsa-hero-2016_test.js)
 
 Good luck!
