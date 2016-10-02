@@ -2,7 +2,7 @@
 
 This challenge is to write a method that folds a given array of integers by the middle x-times.
 If the count of numbers is odd, the middle number will stay. Otherwise the fold-point is between the middle-numbers, so all numbers would be added in a way.
-A little visualization (NOT for the algorithm but for the idea of folding):
+A little visualization (if visualization looks strange open it in Row):
 
  Step 1         Step 2        Step 3       Step 4       Step5
                      5/           5|         5\
