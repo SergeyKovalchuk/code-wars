@@ -1,0 +1,2 @@
+function foldAnArray(input, runs) {
+};
