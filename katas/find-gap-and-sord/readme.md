@@ -23,7 +23,7 @@ findAndSort(massive, leftLimit, rightLimit); // [100,200,-20,-7,2,3,4,4,5,5,18,-
 * leftLimit: a number that set the min limit gap value.
 * rightLimit: a number that set the max limit gap value.
 
-See tests in [find-gap-and-sort_test.js](https://github.com/AlexVvx/code-wars/blob/master/katas/find-gap-and-sort/find-gap-and-sort_test.js)
+See tests in [find-gap-and-sort_test.js](https://github.com/AlexVvx/code-wars/blob/master/katas/find-gap-and-sord/find-gap-and-sort_test.js)
 
 ## Boilerplate
 ```js
