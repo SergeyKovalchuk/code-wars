@@ -10,10 +10,10 @@ Could you give the sum S of the perimeters of all the squares in a rectangle whe
 
 S = S(0) + S(1) + ... + S(n) ?
 
-
+![Fibonacci sequence image](http://i.imgur.com/EYcuB1wm.jpg)
 
 ###Hint:
- See Fibonacci sequence and beware of rather big n:-)
+ See Fibonacci sequence and beware of rather big n :-)
 
 ###Ref:
  http://oeis.org/A000045

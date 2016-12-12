@@ -1,3 +1,3 @@
 function perimeter(n) {
-    return ... fib...
+    //return result
 }
